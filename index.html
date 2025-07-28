@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Hindi Self-Study Reference</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <main class="container py-16 flex flex-col gap-16">
+      <header>
+        <h1>Hindi Self-Study Reference</h1>
+        <p id="total-count" class="mt-8"></p>
+      </header>
+
+      <section class="controls flex gap-16 flex-wrap">
+        <input
+          type="text"
+          id="search-input"
+          class="form-control flex-1"
+          placeholder="Search phrase or translation..."
+          aria-label="Search entries"
+        />
+
+        <select id="sort-select" class="form-control" aria-label="Sort entries">
+          <option value="phrase-asc">Phrase A → Z</option>
+          <option value="phrase-desc">Phrase Z → A</option>
+          <option value="translation-asc">Translation A → Z</option>
+          <option value="translation-desc">Translation Z → A</option>
+        </select>
+      </section>
+
+      <div class="table-container card">
+        <table id="entries-table">
+          <thead>
+            <tr>
+              <th scope="col">Phrase</th>
+              <th scope="col">Translation</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
+    </main>
+
+    <script src="app.js"></script>
+  </body>
+</html>
