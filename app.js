@@ -684,6 +684,28 @@ Spice = Masala
 Coriander = Dhaniya
 Cumin = Jeera
 Turmeric = Haldi
+These words connect two sentences or clauses.
+Aur – and
+Ya - or
+Lekin / Par - but (Lekin is more common in conversation)
+Agar - if
+Toh - then (often used in "if...then" constructions, e.g., Agar tum aate ho, toh... - "If you come, then...")
+Kyunki - because
+Isliye - so / therefore / that's why
+
+Postpositions (like "on", "in", "from")
+A key difference from English is that these words come after the word they relate to. For example, instead of "on the table," in Hindi you say "table on" (mez par).
+Mein - in (e.g., ghar mein - in the house)
+Par - on (e.g., kursi par - on the chair)
+Se - from / with / since (a very versatile word)
+Ko - to (used for people/objects, e.g., usko do - give to him/her)
+Tak - up to / until
+Ka / Ki / Ke - of (shows possession, changes based on the gender and number of the noun that follows)
+Ke liye - for (e.g., aap ke liye - for you)
+Ke saath - with (in the sense of "along with," e.g., dost ke saath - with a friend)
+Ke paas - near / "have" (for possessions, e.g., mere paas ek kitab hai - I have a book)
+Ke neeche - under / below
+Ke upar - above / on top of
 `;
 
 
