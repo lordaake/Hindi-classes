@@ -796,6 +796,116 @@ Typing = Taayping karna
 Pinching = Chinbona
 Grasping = Pakadna
 
+Ask a question = Prashan puchho OR Prashan pucchieyega
+Question = Prashan
+Swal puccho = For kids and friends
+Swal pucchiyega = For Formal use, elderly
+
+Bring = Lana
+Bring Paneer Masala = Paneer Masala Lao, if friend or lady = Paneer Masala Laiye
+
+Please, sit on sofa = Sofa par baithiye, or if to Kid = Sofa Par baitho
+Sit = Baithana
+Bring a cup of tea = Ek cup chai lao/layie
+Ek chai ka cup laiya/lao
+
+I change the price = Main Mulya badalta hun
+Change = badalna
+
+Boss = Mulya badaliye
+Junior = Mulya Badalo
+
+She finds a pathways = Waha rastha pati hai
+Find = Pana
+Which way to gate number 1  = Gate NO.1 ka rasta batao
+Tell = Batana
+
+We hear a song = Hum gana sunate hai
+This is a very good song, listen to it = Yah bahut achha geet hai, ise suniyega
+To it = Ise
+This = Yah
+Very = Bahut
+Good = Accha
+Song = Gana
+Listen = Sunna
+
+This is a very good video, please watch this = Yah bahut accha video hai, kripya dekhiye/dekhiyega.
+Watch = Dekhna
+Please = Kripya
+Kripalu = Kind OR Compassionate
+
+He learns hindi = Wah hindi sikhta hai
+Hindi sikhyega
+If you want to know ground report, then read local papers
+Then = Tab
+Read = Padhna
+Know = Janna
+Want = bhatana
+
+They open the door = We dwar kholte hain
+Open = Kholna
+Open door = Dwar Kholiye (Kholiyega) OR Dwar Kholo
+
+I keep the chairs = Main kursi rakhta hun
+Keep the chairs = Kursi rakhiyega 
+Keep = Rakhna
+Chair = kursi
+
+She reads the storybook = Wah kahani kikita padhati hain
+Story = Kahani Kikita
+
+He will ask question = Wah prashan puchhega
+They will change the price = We Mulya badalenge
+Change = Badalna
+Price = Mulya SPOKEN = Mulle
+
+I will go = Main jaunga
+
+You will open the door = Ap dwar kholenge
+Open = Kholta
+
+If somebody knocks, then you will open the door = Agar koi dwar khat khtata hai, tab ap dwar kholenge
+Then = Toh or Tab
+
+If somebody knocks the door = Agar koi dwar khat khtata hai, 
+If = Agar
+Khat Khtana = Knocks
+Somebody = Koi
+
+Bring a cup of tea = Ek cup chai lao
+Bring = Lana, Lao
+To child or friends: Sit down on the sofa = Sofa par baitho
+To Parents: Sofa par baithiye
+Sit = Baithna
+On = Par
+
+Bring a soap bar = Soap lao OR Soap Laiye
+Soap = 
+Bring = Lana , Lao
+
+From father: Give money = Money de-j-ye
+Give = Dena
+
+Bring/Give Paneer Masala = Paneer Masala Lao/Laiye
+
+Love all, trust a few = Sabi se pyar karo, kuchh par viswhas karo
+Love = Pyar karna
+All = Sabhi
+Trust = Vishwas Karna
+A few = Kuchh
+
+Karna = Master word
+I drive a car = Main car chalata hun OR Main car drive karta hun
+I wash clothes = Main kapare wash karta hun OR Main kapare dohta hun
+Clothes = Kapare
+Wash = Dohna
+
+I cook food = Main kahna banata hun OR Main kahna cook karta hun
+They will understand = We samjhenge
+Understand = Samjhna
+
+They will stay in a hotel = We hotel mein rukenge
+Stay = Rukna
 `;
 
 
