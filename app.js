@@ -706,6 +706,96 @@ Ke saath - with (in the sense of "along with," e.g., dost ke saath - with a frie
 Ke paas - near / "have" (for possessions, e.g., mere paas ek kitab hai - I have a book)
 Ke neeche - under / below
 Ke upar - above / on top of
+
+Baal = Hair
+Growing = Ugna
+Protecting (head) = Bachana
+Warming = Garam rakhna
+
+Ser = Head
+Thinking = Sochna
+Remembering = Yaad rakhna
+Controlling (body) = Niyantrit karna
+
+Kaan = Ears
+Hearing = Sunna
+Listening = Sunna / Dhyaan dena
+Balancing = Santulan banana
+
+Naak = Nose
+Smelling = Soonghna
+Breathing = Saans lena
+Filtering (air) = Chhan-na
+
+Ankh = Eye
+Seeing = Dekhna
+Blinking = Jhilmilana / Palak jhapakna
+Crying = Rona
+
+Honth = Lips
+Speaking = Bolna
+Kissing = Choomna
+Eating (opening/closing mouth) = Khaana
+
+Daant = Teeth
+Biting = Kaatna
+Chewing = Chabana
+Grinding (food) = Pisna
+
+Jeebh = Tongue
+Tasting = Chakhna
+Speaking = Bolna
+Swallowing = Nigalna
+
+Chhaati = Chest
+Breathing (lungs in chest) = Saans lena
+Protecting (organs) = Bachana
+Pumping (heart) = Dhadakna
+
+Pet = Belly
+Digesting = Pachaana
+Storing (food) = Jama karna
+Growing (during pregnancy) = Badhna
+
+Jangha = Thighs
+Walking = Chalna
+Running = Daudna
+Sitting = Baithna
+
+Ghutna = Knee
+Bending = Modna
+Supporting (body weight) = Samarthan dena
+Standing up = Khada hona
+
+Takhna = Ankle
+Rotating = Ghumana
+Supporting (movement) = Samarthan dena
+Jumping = Uchhalna
+
+Pair = Foot/Leg
+Walking = Chalna
+Running = Bhaagna
+Standing = Khada hona
+Kicking = Laat maarna
+
+Haath = Hand
+Holding = Pakadna
+Picking = Uthana
+Throwing = Phenkna
+Waving = Hilaana
+
+Hatheli = Palm
+Touching = Chhoona
+Holding = Pakadna
+Clapping = Taali bajana
+
+Ungliyaan = Fingers
+Pointing = Ishara karna
+Writing = Likhna
+Typing = Taayping karna
+Pinching = Chinbona
+Grasping = Pakadna
+
 `;
 
 
