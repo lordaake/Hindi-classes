@@ -906,6 +906,53 @@ Understand = Samjhna
 
 They will stay in a hotel = We hotel mein rukenge
 Stay = Rukna
+
+He asks a question = Wah Prashan Puchhta hain
+He can ask a question = Wah prashan pucch sakhta hain
+He can lift weights = Wah wazan utha sakhta hain
+She can read the book = Wah pustak padh sakti hain
+Read = Padhana
+Book = Pustak
+She reads the book = Wah pustak padthi hai
+Future = Wah pustak padthegi
+
+She goes to school = Wah school jati hain 
+Go = Jata
+
+My son goes to school = Mera beta school jata hain
+Son = beta
+Past tense, He used to: Mera beta school jata tha
+
+Actor goes to theater = Actor theater jata hai
+Past = Actor theater jata tha
+
+I went to theater to watch a play = Main natak dehkne ke liye theater ko
+Play = Natak
+See = Dekhna
+She finds a pathway = Waha rastha pati hai
+Find = Pana
+Past = Wah rastha pati thi
+Future = Wah rastha payegi
+
+As we eat, so we become = Jaisa hum khate hain, waisa hum bante hain
+As = Jaisa
+So = Waisa
+Become = Banana
+
+Coward dies many times but valiant dies once = Darpok kai bar martha hai, lekin nidar ek bar martha hai
+Coward = Darpok
+Die = Marna
+Many times = Kai bar
+But = Lekin
+Valiant = Nidar
+Once = Ek bar
+
+As you sow, so shall you reap = Jaisa aap bote ho, waisa aap katenge
+As = Jaisa
+Sow = Bona
+Reap = Katna
+So = Waisa
+Your actions determine the consequences
 `;
 
 
